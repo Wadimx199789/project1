@@ -1,0 +1,259 @@
+header{
+	background:url(img/Rectangle.jpg) no-repeat center top/cover;
+	padding-bottom:180px;
+
+}
+body{
+	padding: 0;
+	margin:0;
+	font-family: Arial,sans-serif;
+}
+.container{
+	width:1140px;
+	
+	margin:0 auto;
+
+}
+.logo{
+	margin-top:35px;
+	float:left;
+}
+
+.menu{
+	padding:0;
+	margin:0;
+	display:block;
+	float:right;
+	margin-top:80px;
+}
+ .menu li{
+	float:left;
+	display:block;
+	margin-right:105px;
+	font-size:12px;
+}
+.menu li a{
+	color:#fff;
+	text-decoration:none;
+}
+
+
+
+	
+.title-one{
+	font-size:35px;
+	color:#fff;
+	text-transform:uppercase; 
+	text-align:center;
+	font-weight:bolder;
+	
+}
+
+.title-two{
+	font-size:25px;
+	font-weight: 100;
+	margin-top: 30px;
+	
+}
+.clearfix::after {
+  
+   content: "";
+    clear: both;
+    display: table;
+
+
+}
+.titles{
+text-transform:uppercase;
+  color:#fff;
+  text-align: center;
+  margin-top:200px;
+}
+.ghost-button{
+   display: inline-block;
+  width: 140px;
+  padding: 10px;
+  color: #48bf72;
+  border: 1px solid #48bf72;
+  text-align: center;
+  outline: none;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top:50px;
+}
+
+	
+
+.buttons  a{
+    text-decoration:none;
+	color:#3c4955;
+}
+.menu-buttons{
+	margin-top:55px;
+}
+.buttons{
+margin-top:0px;
+text-decoration:none;
+margin-bottom: 50px;
+
+}
+.buttons li:nth-child(5){
+	
+	width:300px;
+	background:#48bf72;
+	 	color:#fff;
+	 margin-right: 10px;
+	 text-align:center;
+
+	 
+
+}
+.buttons li:nth-child(1){
+	margin-right:235px;
+}
+
+
+.buttons li{
+	display:block;
+	color:#3c4955;
+	width:120px;
+	height:35px;
+	text-align: center;
+   display: inline-block;
+	background:#eaeaea;
+	border-radius: 3px;
+	float:right;
+	margin-right:15px;
+	padding-top:10px;
+	font-weight:bold;
+	
+	
+}
+
+.photo2{
+float:right;
+margin-top:50px;
+
+}
+.photo1{
+	float:left;
+	margin-top:50px;
+}
+.photo4{
+	float:right;
+	margin-top:40px;
+
+}
+.photo3{
+	float:left;
+	margin-top:40px;
+
+}
+.photos{
+	padding-bottom:90px;
+}
+.About{
+	background:url(img/Rectangle2.jpg) no-repeat center top/cover;
+	
+	padding-top: 90px;
+	height:300px;
+	padding-bottom: 90px;
+	
+
+}
+.Information{
+	float:right;
+
+	
+	}
+.Name{
+	font-size:25px;
+	color:#fff; 
+	
+}
+.Profession{
+	margin-top: 15px;
+	font-size:18px;
+	color:#fff; 
+	
+	
+}
+.text{
+	margin-top:45px;
+	text-align:left;
+	color:#fff;
+	line-height:1.5em;
+}
+.contact-button{
+
+float:left;
+text-decoration: none;
+display:block;
+border:2px solid #3c4955;
+width:145px;
+height:35px;
+text-align:center;
+margin-top:43px;
+border-radius:5px;
+padding:5px;
+text-transform:uppercase;
+color:#3c4955;
+  display: inline-block;
+}
+
+.contactDetails{
+	text-align:center;
+	color:#60c784;
+	text-transform:uppercase;
+	font-weight:900;
+	font-size: 20px;
+	margin-top:50px;
+
+
+
+}
+.contactform{
+	margin-top:55px;
+	border:1px solid right;
+	padding-left:220px;
+	padding-right:220px;
+
+}
+div.contactform form{
+	
+	margin-left:80px;
+	padding-right:0px;
+}
+#emailfield{
+	margin-left:3005px;
+}
+footer{
+	background:#3c4955;
+	
+	padding-top:90px;
+	padding-bottom:90px;
+}
+.pictures{
+	float:right;
+
+}
+.linkedIn,.dribble,.behance{
+	margin-left:40px;
+}
+.copyright{
+	float:left;
+	color:#fff;
+	font-size:14px;
+}
+
+
+
+
+
+
+	
+
+
+
+
+
